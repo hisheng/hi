@@ -14,7 +14,11 @@
       <pubDate>Tue, 14 Nov 2023 16:59:53 +0800</pubDate>
       <guid>https://example.org/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+Visit the Hugo website!
+会议时间：2023.11.14 19:00 - 20:30
+会议地点：dd
+主持人： zzz
+下次主持人： zsss</description>
     </item>
   </channel>
 </rss>
