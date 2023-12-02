@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>网址导航</title>
+    <link>https://www.w3sites.org/</link>
+    <description>Recent content on 网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 16:59:53 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Nov 2023 16:59:53 +0800</lastBuildDate>
+    <atom:link href="https://www.w3sites.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
-      <pubDate>Tue, 14 Nov 2023 16:59:53 +0800</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-会议时间：2023.11.14 19:00 - 20:30
-会议地点：dd
-主持人： zzz
-下次主持人： zsss</description>
+      <title>www.xiaoqiao.cc 小乔小说</title>
+      <link>https://www.w3sites.org/posts/my-first-post/</link>
+      <pubDate>Fri, 24 Nov 2023 16:59:53 +0800</pubDate>
+      <guid>https://www.w3sites.org/posts/my-first-post/</guid>
+      <description>介绍 小乔小说 小乔文学，小乔小说</description>
     </item>
   </channel>
 </rss>

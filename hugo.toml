@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.w3sites.org'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '网址导航'
 theme = 'ananke'
